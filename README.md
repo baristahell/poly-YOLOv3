@@ -1,5 +1,5 @@
 # poly-YOLOv3
 
-An arbitrary 4-points polygons detector based on YOLOv3
+An arbitrary 4-points polygons detector based on YOLOv3, that I wanted to develop. Development hell and no use anymore made me drop it.
 
-Work in progress, might never be finished !
+Fork of feifeiwei/OBB-YOLOv3
